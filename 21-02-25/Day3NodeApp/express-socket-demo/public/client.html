@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Socket.io Chat with Typing Indicator & Online Users</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        #chat { max-width: 400px; margin: auto; }
+        #messages { list-style-type: none; padding: 0; }
+        li { background: #f1f1f1; margin: 5px; padding: 10px; border-radius: 5px; }
+        #typingIndicator { font-style: italic; color: gray; }
+        #usersList { list-style: none; padding: 0; }
+    </style>
+</head>
+<body>
+
+    <h2>Real-time Chat</h2>
+
+    <!-- Online Users -->
+    <h3>Online Users</h3>
+    <ul id="usersList"></ul>
+
+    <!-- Username Input -->
+    <div id="usernameContainer">
+        <input type="text" id="usernameInput" placeholder="Enter your name..." />
+        <button onclick="setUsername()">Join Chat</button>
+    </div>
+
+    <!-- Chat UI (Initially Hidden) -->
+    <div id="chatContainer" style="display: none;">
+        <input type="text" id="messageInput" placeholder="Type a message..." oninput="sendTyping()" onblur="stopTyping()" />
+        <button onclick="sendMessage()">Send</button>
+        <ul id="messages"></ul>
+        <p id="typingIndicator"></p>
+    </div>
+
+    <script src="https://cdn.socket.io/4.0.1/socket.io.min.js"></script>
+    <script>
+        const socket = io("http://localhost:3000");
+        let username = "";
+
+        // Set username and show chat UI
+        function setUsername() {
+            username = document.getElementById("usernameInput").value.trim();
+            if (username !== "") {
+                socket.emit("setUsername", username);
+                document.getElementById("usernameContainer").style.display = "none";
+                document.getElementById("chatContainer").style.display = "block";
+            } else {
+                alert("Please enter a valid name!");
+            }
+        }
+
+        // Listen for messages from server
+        socket.on("message", (data) => {
+            const li = document.createElement("li");
+            li.textContent = `${data.user}: ${data.text}`;
+            document.getElementById("messages").appendChild(li);
+        });
+
+        // Send message to server
+        function sendMessage() {
+            const msg = document.getElementById("messageInput").value.trim();
+            if (msg !== "") {
+                socket.emit("message", msg);
+                document.getElementById("messageInput").value = "";
+                stopTyping(); // Stop typing when message is sent
+            }
+        }
+
+        // Typing Indicator
+        function sendTyping() {
+            socket.emit("typing");
+        }
+
+        function stopTyping() {
+            socket.emit("stopTyping");
+        }
+
+        socket.on("typing", (user) => {
+            document.getElementById("typingIndicator").textContent = `${user} is typing...`;
+        });
+
+        socket.on("stopTyping", () => {
+            document.getElementById("typingIndicator").textContent = "";
+        });
+
+        // Update Online Users List
+        socket.on("updateUsers", (users) => {
+            const userList = document.getElementById("usersList");
+            userList.innerHTML = ""; // Clear list
+            users.forEach(user => {
+                const li = document.createElement("li");
+                li.textContent = user;
+                userList.appendChild(li);
+            });
+        });
+    </script>
+
+</body>
+</html>
