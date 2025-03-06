@@ -1,0 +1,12 @@
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\AppLogic\bin\Debug\net9.0\AppLogic.deps.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\AppLogic\bin\Debug\net9.0\AppLogic.dll
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\AppLogic\bin\Debug\net9.0\AppLogic.pdb
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\AppLogic\obj\Debug\net9.0\AppLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\AppLogic\obj\Debug\net9.0\AppLogic.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\AppLogic\obj\Debug\net9.0\AppLogic.AssemblyInfo.cs
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\AppLogic\obj\Debug\net9.0\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\AppLogic\obj\Debug\net9.0\AppLogic.sourcelink.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\AppLogic\obj\Debug\net9.0\AppLogic.dll
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\AppLogic\obj\Debug\net9.0\refint\AppLogic.dll
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\AppLogic\obj\Debug\net9.0\AppLogic.pdb
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\AppLogic\obj\Debug\net9.0\ref\AppLogic.dll

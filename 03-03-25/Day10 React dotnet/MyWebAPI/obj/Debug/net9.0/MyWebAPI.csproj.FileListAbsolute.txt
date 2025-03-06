@@ -1,0 +1,68 @@
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\bin\Debug\net9.0\appsettings.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\bin\Debug\net9.0\MyWebAPI.staticwebassets.endpoints.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\bin\Debug\net9.0\MyWebAPI.exe
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\bin\Debug\net9.0\MyWebAPI.deps.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\bin\Debug\net9.0\MyWebAPI.runtimeconfig.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\bin\Debug\net9.0\MyWebAPI.dll
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\bin\Debug\net9.0\MyWebAPI.pdb
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\MyWebAPI.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\MyWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\MyWebAPI.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\MyWebAPI.AssemblyInfo.cs
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\MyWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\MyWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\MyWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\MyWebAPI.sourcelink.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\scopedcss\bundle\MyWebAPI.styles.css
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\staticwebassets\msbuild.MyWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\staticwebassets\msbuild.MyWebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.MyWebAPI.props
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyWebAPI.props
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyWebAPI.props
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\MyWebAPI.csproj.Up2Date
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\MyWebAPI.dll
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\refint\MyWebAPI.dll
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\MyWebAPI.pdb
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\MyWebAPI.genruntimeconfig.cache
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React & .net\MyWebAPI\obj\Debug\net9.0\ref\MyWebAPI.dll
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\bin\Debug\net9.0\appsettings.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\bin\Debug\net9.0\MyWebAPI.staticwebassets.endpoints.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\bin\Debug\net9.0\MyWebAPI.exe
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\bin\Debug\net9.0\MyWebAPI.deps.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\bin\Debug\net9.0\MyWebAPI.runtimeconfig.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\bin\Debug\net9.0\MyWebAPI.dll
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\bin\Debug\net9.0\MyWebAPI.pdb
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\MyWebAPI.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\MyWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\MyWebAPI.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\MyWebAPI.AssemblyInfo.cs
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\MyWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\MyWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\MyWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\MyWebAPI.sourcelink.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\scopedcss\bundle\MyWebAPI.styles.css
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\staticwebassets\msbuild.MyWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\staticwebassets\msbuild.MyWebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.MyWebAPI.props
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyWebAPI.props
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyWebAPI.props
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\MyWebAPI.csproj.Up2Date
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\MyWebAPI.dll
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\refint\MyWebAPI.dll
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\MyWebAPI.pdb
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\MyWebAPI.genruntimeconfig.cache
+C:\Users\DELL\Documents\GreatLearning- .net fsd React\03-03-25\Day10 React dotnet\MyWebAPI\obj\Debug\net9.0\ref\MyWebAPI.dll
