@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Documents\\GreatLearning- .net fsd React\\05-03-25\\Day12 React App\\ToDoAPI\\ToDoAPI.csproj": {}
+    "C:\\Users\\DELL\\Documents\\GreatLearning- .net fsd React\\06-03-25\\Dotnet JWT Demo\\ToDoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Documents\\GreatLearning- .net fsd React\\05-03-25\\Day12 React App\\ToDoAPI\\ToDoAPI.csproj": {
+    "C:\\Users\\DELL\\Documents\\GreatLearning- .net fsd React\\06-03-25\\Dotnet JWT Demo\\ToDoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Documents\\GreatLearning- .net fsd React\\05-03-25\\Day12 React App\\ToDoAPI\\ToDoAPI.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Documents\\GreatLearning- .net fsd React\\06-03-25\\Dotnet JWT Demo\\ToDoAPI.csproj",
         "projectName": "ToDoAPI",
-        "projectPath": "C:\\Users\\DELL\\Documents\\GreatLearning- .net fsd React\\05-03-25\\Day12 React App\\ToDoAPI\\ToDoAPI.csproj",
+        "projectPath": "C:\\Users\\DELL\\Documents\\GreatLearning- .net fsd React\\06-03-25\\Dotnet JWT Demo\\ToDoAPI.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Documents\\GreatLearning- .net fsd React\\05-03-25\\Day12 React App\\ToDoAPI\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Documents\\GreatLearning- .net fsd React\\06-03-25\\Dotnet JWT Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

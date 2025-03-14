@@ -1,0 +1,41 @@
+/* src/components/FriendList.css */
+.friend-list {
+    padding: 16px;
+  }
+  
+  .add-friend input,
+  .add-friend button {
+    padding: 8px;
+    margin-right: 8px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 8px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  input {
+    padding: 4px;
+    margin-right: 4px;
+  }
+  
+  button {
+    background-color: #6200ea;
+    color: white;
+    border: none;
+    padding: 4px 8px;
+    cursor: pointer;
+    margin-left: 4px;
+  }
+  
+  button:hover {
+    background-color: #3700b3;
+  }
+  

@@ -1,0 +1,44 @@
+/* src/components/ExpenseSummary.css */
+
+.expense-summary {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    margin: 20px 0;
+  }
+  
+  h2, h3 {
+    margin-bottom: 10px;
+  }
+  
+  .summary-item {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .balances {
+    margin-bottom: 20px;
+  }
+  
+  .balance-item {
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  .balance-item.positive {
+    color: green;
+  }
+  
+  .balance-item.negative {
+    color: red;
+  }
+  
+  .settlement-item {
+    padding: 5px;
+    font-size: 16px;
+    background-color: #eef;
+    margin-bottom: 5px;
+    border-radius: 4px;
+  }
+  

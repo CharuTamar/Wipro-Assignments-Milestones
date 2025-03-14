@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JZUDo3EZqzc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\GreatLearning_dotnet_fsd_React\\13-03-25\\Microservices\\ProductService\\ProductService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\scalar.aspnetcore\\2.0.30\\scalar.aspnetcore.2.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
